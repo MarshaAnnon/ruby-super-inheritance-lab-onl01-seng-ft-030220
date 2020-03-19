@@ -11,4 +11,5 @@ class ChattyStudent < Student
     super
     * 10
   end
+  
 end
